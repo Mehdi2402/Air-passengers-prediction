@@ -273,7 +273,7 @@ def get_estimator():
         )
 
     xgb = GradientBoostingRegressor(loss='ls', learning_rate=0.1,
-                n_estimators=2000, subsample=1.0, criterion='friedman_mse',
+                n_estimators=500, subsample=1.0, criterion='friedman_mse',
                 min_samples_split=9, min_samples_leaf=5,
                 min_weight_fraction_leaf=0.0, max_depth=4,
                 min_impurity_decrease=0.0, min_impurity_split=None, random_state=123)

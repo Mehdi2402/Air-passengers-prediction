@@ -13,3 +13,5 @@ The data set was donated to us by an unnamed company handling flight ticket rese
 **The goal is to predict the log_PAX column. The prediction quality is measured by RMSE.**
 
 **The data is obviously limited, but since data and location informations are available, it can be joined to external data sets. The challenge in this RAMP is to find good data that can be correlated to flight traffic.**
+
+![head of initial dataset](https://github.com/Mehdi2402/images/blob/main/deep_initial_data.PNG?raw=true)

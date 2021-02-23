@@ -33,5 +33,5 @@ The data set was donated to us by an unnamed company handling flight ticket rese
 </p>
 
 <p align="center">
-  <img src="https://github.com/Mehdi2402/images/blob/main/deep_shap2.PNG?raw=true" />
+  <img src="https://github.com/Mehdi2402/images/blob/main/deep_shap2.png?raw=true" />
 </p>
